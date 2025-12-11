@@ -22,6 +22,7 @@ Exporta métricas do host (CPU, memória, disco).
 Proxy reverso para rotear requisições.
 
 Diagrama da Arquitetura
+
 ![DIAGRAMA](https://github.com/user-attachments/assets/653ae94c-0ac5-4c90-af92-d4902dc153db)
 
 1. Prints do Ambiente
