@@ -58,14 +58,8 @@ docker compose up -d
 
 docker ps
 
-3. Acessos
-| Serviço       | URL                                                            | Porta |
-| ------------- | -------------------------------------------------------------- | ----- |
-| API           | [http://localhost:8080](http://localhost:8080)                 | 8080  |
-| API /metrics  | [http://localhost:8080/metrics](http://localhost:8080/metrics) | 8080  |
-| Prometheus    | [http://localhost:9090](http://localhost:9090)                 | 9090  |
-| Grafana       | [http://localhost:3000](http://localhost:3000)                 | 3000  |
-| Node Exporter | [http://localhost:9100/metrics](http://localhost:9100/metrics) | 9100  |
+![ACESSOS](https://github.com/user-attachments/assets/54d05c45-fdc5-40d2-8438-7e4315337611)
+
 
 4. Grafana – Como importar o dashboard
 
