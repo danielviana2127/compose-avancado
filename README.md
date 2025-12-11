@@ -42,7 +42,7 @@ Node Exporter – /metrics
 Grafana – painel com métricas
 ![GRAFANA-DASHBOARD](https://github.com/user-attachments/assets/a53e8f15-d12a-4b72-9c4a-dfd82ec6757a)
 
-3. Como Executar o Projeto
+2. Como Executar o Projeto
 
 1. Clone o repositório
 
@@ -50,11 +50,11 @@ git clone https://github.com/danielviana2127/compose-avancado
 
 cd compose-avancado
 
-3. Suba os serviços
+2. Suba os serviços
 
 docker compose up -d
 
-5. Verifique os serviços
+3. Verifique os serviços
 
 docker ps
 
