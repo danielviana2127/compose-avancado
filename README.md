@@ -29,16 +29,22 @@ Diagrama da Arquitetura
 
 Docker PS – serviços funcionando
 ![DOCKER-PS](https://github.com/user-attachments/assets/bdda0a3e-9d09-4f62-a1f2-ee63232e59df)
+
 Prometheus – Target do node-exporter UP
 ![PROMETHEUS-TARGETS](https://github.com/user-attachments/assets/36f738c5-00c3-4783-8548-1993a1af7632)
+
 Prometheus – Gráfico das métricas
 ![PROMETHEUS-GRAFICOS](https://github.com/user-attachments/assets/415c0d6b-14ef-4a22-a7b2-6e9ff72525e9)
+
 API /metrics funcionando
 ![METRICS-API-PYTHON](https://github.com/user-attachments/assets/6e740f1b-9f23-48bc-b5ee-46e22f568fc4)
+
 NGINX – página padrão funcionando
 ![NGINX](https://github.com/user-attachments/assets/c33cb95d-734f-4458-bf84-874cb42da0fb)
+
 Node Exporter – /metrics
 ![METRICS-NODE-EXPORTER](https://github.com/user-attachments/assets/e4bb917f-d8ff-46fa-9f47-ce52fd7e4455)
+
 Grafana – painel com métricas
 ![GRAFANA-DASHBOARD](https://github.com/user-attachments/assets/a53e8f15-d12a-4b72-9c4a-dfd82ec6757a)
 
