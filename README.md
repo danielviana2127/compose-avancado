@@ -22,31 +22,7 @@ Exporta métricas do host (CPU, memória, disco).
 Proxy reverso para rotear requisições.
 
 Diagrama da Arquitetura
-                 ┌─────────────────────┐
-                 │      GRAFANA        │
-                 │   Porta 3000        │
-                 └─────────▲───────────┘
-                           │ (consulta)
-                           │
-                 ┌─────────┴───────────┐
-                 │    PROMETHEUS       │
-                 │     Porta 9090       │
-                 └───────┬───────▲─────┘
-                         │       │
-           (coleta)      │       │ (coleta)
-                         │       │
-      ┌──────────────────┘       └───────────────────┐
-      │                                              │
-┌─────▼─────┐                                  ┌─────▼────────┐
-│  API       │                                  │ NODE EXPORTER│
-│ Porta 5000 │                                  │   Porta 9100 │
-└─────┬─────┘                                  └──────────────┘
-      │
-      │ (proxy)
-┌─────▼─────┐
-│  NGINX     │
-│  8080→5000 │
-└────────────┘
+![DIAGRAMA](https://github.com/user-attachments/assets/653ae94c-0ac5-4c90-af92-d4902dc153db)
 
 1. Prints do Ambiente
 Docker PS – serviços funcionando
