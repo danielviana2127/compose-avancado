@@ -82,12 +82,13 @@ Dashboards → Import
 7. Selecione o Prometheus como data source.
 
 5. Estrutura do Projeto
+
 ![ESTRUTURA](https://github.com/user-attachments/assets/d9b3057c-56ad-4431-9c8a-af5be990990d)
 
-6. AUTOR
+7. AUTOR
 Projeto desenvolvido por Daniel Viana como parte do estudo avançado em DevOps e Observabilidade.
 
-7. Licença
+8. Licença
 Este repositório é livre para uso educacional.
 
 
