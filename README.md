@@ -26,6 +26,7 @@ Diagrama da Arquitetura
 ![DIAGRAMA](https://github.com/user-attachments/assets/653ae94c-0ac5-4c90-af92-d4902dc153db)
 
 1. Prints do Ambiente
+
 Docker PS – serviços funcionando
 ![DOCKER-PS](https://github.com/user-attachments/assets/bdda0a3e-9d09-4f62-a1f2-ee63232e59df)
 Prometheus – Target do node-exporter UP
