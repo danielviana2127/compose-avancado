@@ -51,7 +51,6 @@ Diagrama da Arquitetura
 1. Prints do Ambiente
 Docker PS – serviços funcionando
 ![DOCKER-PS](https://github.com/user-attachments/assets/bdda0a3e-9d09-4f62-a1f2-ee63232e59df)
-Esta imagem mostra o comando docker ps exibindo todos os contêineres ativos.
 Prometheus – Target do node-exporter UP
 ![PROMETHEUS-TARGETS](https://github.com/user-attachments/assets/36f738c5-00c3-4783-8548-1993a1af7632)
 Prometheus – Gráfico das métricas
