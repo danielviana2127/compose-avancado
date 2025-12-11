@@ -46,17 +46,17 @@ Grafana – painel com métricas
 
 1. Clone o repositório
 
-git clone https://github.com/danielviana2127/compose-avancado
+   git clone https://github.com/danielviana2127/compose-avancado
 
-cd compose-avancado
+   cd compose-avancado
 
 2. Suba os serviços
 
-docker compose up -d
+   docker compose up -d
 
 3. Verifique os serviços
 
-docker ps
+   docker ps
 
 ![ACESSOS](https://github.com/user-attachments/assets/54d05c45-fdc5-40d2-8438-7e4315337611)
 
